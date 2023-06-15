@@ -9,3 +9,6 @@ exclude = '''
   | dist
 )
 '''
+
+[tool.setuptools]
+packages = ["instrumentation"]
